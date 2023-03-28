@@ -1,4 +1,4 @@
-package HausuebungQuader;
+package Hausuebung5;
 
 public class Quader {
 

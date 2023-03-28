@@ -1,4 +1,4 @@
-package HausuebungQuader;
+package Hausuebung5;
 
 public class QuaderMain {
     public static void main(String[] args) {
@@ -14,6 +14,14 @@ public class QuaderMain {
         quader.grundflaeche();
         quader.oberflaeche();
         quader.volumen();
+
+
+       Grundsteuer grundsteuer = new Grundsteuer();
+
+       int [] [] grundstuecke = { {1, 30, 40}, {2, 20, 50}, {3, 10, 30}};
+
+
+
     }
 
 
