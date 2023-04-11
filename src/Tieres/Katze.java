@@ -1,3 +1,5 @@
+package Tieres;
+
 import java.util.Scanner;
 
 public class Katze {
@@ -7,7 +9,7 @@ public class Katze {
     String art;
     String farbe;
 
-// kann publci Katze oder nur Katze stehen
+// kann publci Tieres.Katze oder nur Tieres.Katze stehen
     public Katze (String n, int a, String r, String c) { //Constuctor für die Klasse, zum schnelleren Eingeben in der Mainmethode
         name = n;
         art = r;
@@ -17,7 +19,7 @@ public class Katze {
 
 
     public void katzeknurrt () {
-        System.out.println("Die Katze schnurrt: ");
+        System.out.println("Die Tieres.Katze schnurrt: ");
         System.out.println(" knurr ");
 
 
@@ -38,7 +40,7 @@ public class Katze {
 
         public void gibInfo () {
 
-            System.out.println(" Die Katze " + name + " ist " + alter + " Jahre alt und hat die Farbe " + farbe + " ihre Art ist " + art);
+            System.out.println(" Die Tieres.Katze " + name + " ist " + alter + " Jahre alt und hat die Farbe " + farbe + " ihre Art ist " + art);
         }
 
 }

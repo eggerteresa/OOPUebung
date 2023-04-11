@@ -1,3 +1,5 @@
+package Rechteck;
+
 public class MainRechteck {
     public static void main(String[] args) {
 

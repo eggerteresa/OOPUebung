@@ -1,3 +1,4 @@
+package Geschwindigkeit;
 
 import java.util.Scanner;
 

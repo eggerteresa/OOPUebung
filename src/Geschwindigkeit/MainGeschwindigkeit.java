@@ -1,3 +1,5 @@
+package Geschwindigkeit;
+
 public class MainGeschwindigkeit {
     public static void main(String[] args) {
 

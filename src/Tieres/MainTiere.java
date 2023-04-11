@@ -1,3 +1,5 @@
+package Tieres;
+
 public class MainTiere {
 
     public static void main(String[] args) {
@@ -23,7 +25,7 @@ public class MainTiere {
         System.out.println("Es gibt auch Katzen");
 
 
-//    Katze k1 = new Katze();
+//    Tieres.Katze k1 = new Tieres.Katze();
 //    k1.name = "Minki";
 //        k1.alter = 2;
 //        k1.farbe = "weiß";

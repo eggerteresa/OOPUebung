@@ -1,3 +1,5 @@
+package Tieres;
+
 import java.util.Scanner;
 
 public class Hund {
@@ -12,7 +14,7 @@ public class Hund {
 
     public void hatGebellt() {
         bellenCounter++;
-        System.out.println("Der Hund" + name +" bellt wuffwuff");
+        System.out.println("Der Tieres.Hund" + name +" bellt wuffwuff");
     }
 
     public void gibMirInfo () {

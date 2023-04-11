@@ -1,3 +1,5 @@
+package Geschwindigkeit;
+
 public class Justiz {
 
     public void StrafeErrechnen( float geschw) { // hier ergänzen wir Datentyp und Parameter, welche wir mitnehmen bzw. übergeben wollen
